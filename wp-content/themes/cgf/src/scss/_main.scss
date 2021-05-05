@@ -12,12 +12,20 @@ html, body {
     box-sizing: border-box;
     font-family: $fontFamily;
     background-color: $blue;
+    color: #1A1A1A;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	text-transform: capitalize;
     font-family: $serifFontFamily;
-    font-weight: 400;
+    font-weight: 300;
+}
+
+p {
+    @include font-size(18);
+}
+
+figure {
+    margin-bottom: 0;
 }
 
 // Buttons
@@ -49,6 +57,18 @@ a.btn, .btn {
     }
 }
 
+.page-header {
+    &__col-center .logo {
+        display: block;
+        width: 190px;
+        height: 50px;
+        margin-bottom: -35px;
+        background: url(../img/logo.svg) no-repeat center center/contain;
+        position: relative;
+        z-index: 1;
+    }
+}
+
 
 // Page Hero
 .page-hero {
@@ -63,20 +83,19 @@ a.btn, .btn {
             width: 100%;
             height: 0;
             overflow: hidden;
-            padding-top: 40vw;
+            padding-bottom: 50vw;
             background-color: #cccc;
 
-            @include breakFirst($screen-sm) {
-                padding-top: 33vw;
+            @include breakFirst($screen-md) {
+                padding-bottom: 52.5%;
             }
         }
+
 
         figure picture img {
             position: absolute;
             width: 100%;
             height: 100%;
-            top: 0;
-
 
         }
     }
@@ -84,19 +103,19 @@ a.btn, .btn {
 
 // Page Quote
 .page-quote {
+
     .quote-icon {
-        width: 100px;
-        height: 100px;
+        width: 80px;
+        height: 80px;
         background: url(../img/quote.svg) no-repeat center center/contain;
         position: relative;
-        transform: translateY(70px);
-        margin-top: -10vw;
+        transform: translateY(50px);
         z-index: 0;
 
         @include breakFirst($screen-md) {
+            transform: translateY(70px);
             width: 131px;
             height: 131px;
-            margin-top: -2vw;
         }
     }
 
@@ -122,12 +141,84 @@ a.btn, .btn {
     }
 }
 
+
+.page-cta {
+
+    &__col--text .col__inner {
+        @include breakFirst($screen-md) {
+            width: 80%;
+        }
+    }
+
+    &__col--img {
+        figure {
+            margin-bottom: 0;
+        }
+
+        figure picture {
+            display: block;
+            position: relative;
+            width: 100%;
+            height: 0;
+            overflow: hidden;
+            padding-bottom: 100%;
+            background-color: #cccc;
+        }
+
+        figure picture img {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+
+        }
+
+        &.img--round {
+            .img__inner {
+                width: 70%;
+            }
+
+            figure picture {
+                border-radius: 100%;
+                padding-bottom: 100%;
+                width: auto;
+            }
+        } 
+    }
+}
+
 // Page Section
 .page-section {
     h2 {
         @include font-size(36);
         @include breakFirst($screen-md) {
             @include font-size(54);
+        }
+    }
+
+    .content-item {
+        margin-bottom: 30px;
+
+        .content-img {
+            figure {
+                margin-bottom: 0;
+            }
+    
+            figure picture {
+                display: block;
+                position: relative;
+                width: 100%;
+                height: 0;
+                overflow: hidden;
+                padding-bottom: 56.25%;
+                background-color: #cccc;
+            }
+    
+            figure picture img {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+    
+            }
         }
     }
 }

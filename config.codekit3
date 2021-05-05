@@ -25,22 +25,6 @@
 		"oAP": "/.htaccess",
 		"oF": 0
 		},
-	"/europa-bold-webfont.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/europa-bold-webfont.ttf",
-		"oF": 0
-		},
-	"/europa-light-webfont.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/europa-light-webfont.ttf",
-		"oF": 0
-		},
 	"/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -63,30 +47,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/readme.html",
-		"oF": 0
-		},
-	"/recoleta-light.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/recoleta-light.otf",
-		"oF": 0
-		},
-	"/recoleta-regular-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/recoleta-regular-webfont.woff",
-		"oF": 0
-		},
-	"/recoleta-regular-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/recoleta-regular-webfont.woff2",
 		"oF": 0
 		},
 	"/wp-activate.php": {
@@ -5674,6 +5634,30 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/wp-content/themes/cgf/css/recoleta-light.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/cgf/css/recoleta-light.otf",
+		"oF": 0
+		},
+	"/wp-content/themes/cgf/css/recoleta-regular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/cgf/css/recoleta-regular-webfont.woff",
+		"oF": 0
+		},
+	"/wp-content/themes/cgf/css/recoleta-regular-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/cgf/css/recoleta-regular-webfont.woff2",
+		"oF": 0
+		},
 	"/wp-content/themes/cgf/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -5812,6 +5796,28 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/wp-content/themes/js/navigation.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/wp-content/themes/cgf/js/plugins.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-content/themes/js/plugins.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/wp-content/themes/cgf/js/scripts.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-content/themes/js/scripts.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
