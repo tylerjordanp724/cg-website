@@ -11,21 +11,11 @@
 
 ?>
 
-	<footer id="colophon" class="site-footer">
-		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'cgf' ) ); ?>">
-				<?php
-				/* translators: %s: CMS name, i.e. WordPress. */
-				printf( esc_html__( 'Proudly powered by %s', 'cgf' ), 'WordPress' );
-				?>
-			</a>
-			<span class="sep"> | </span>
-				<?php
-				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %1$s by %2$s.', 'cgf' ), 'cgf', '<a href="http://underscores.me/">Tyler J. Perry</a>' );
-				?>
-		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
+	<footer class="page-footer py-4 px-3">
+        <div class="page-footer__inner container">
+            &copy; 2021 | Site by Tyler Jordan Perry
+        </div>
+    </footer>
 </div><!-- #page -->
 
 <?php wp_footer(); ?>

@@ -1,0 +1,134 @@
+@font-face {
+    font-family: 'recoleta';
+    src: url('recoleta-light.otf') format('opentype'),
+         url('recoleta-light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: $fontFamily;
+    background-color: $blue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-transform: capitalize;
+    font-family: $serifFontFamily;
+    font-weight: 400;
+}
+
+// Buttons
+a.btn, .btn {
+    display: flex;
+    align-items: center;
+    width: auto;
+    width: fit-content;
+    background-color: $purple;
+    @include font-size(18);
+    border-radius: 100px;
+    padding: 15px 30px;
+    cursor: pointer;
+    transition: background-color 0.3s $cbTrans;
+    &:hover {
+        background-color: $purple1;
+    }
+
+    span:first-child {
+        margin-right: 10px;
+    }
+
+    span.arrow {
+        position: relative;
+        width: 22px;
+        height: 15px;
+        top: 2px;
+        background: url(../img/arrow.svg) no-repeat center center/contain;
+    }
+}
+
+
+// Page Hero
+.page-hero {
+    &__inner {
+        figure {
+            margin-bottom: 0;
+        }
+
+        figure picture {
+            display: block;
+            position: relative;
+            width: 100%;
+            height: 0;
+            overflow: hidden;
+            padding-top: 40vw;
+            background-color: #cccc;
+
+            @include breakFirst($screen-sm) {
+                padding-top: 33vw;
+            }
+        }
+
+        figure picture img {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+
+
+        }
+    }
+}
+
+// Page Quote
+.page-quote {
+    .quote-icon {
+        width: 100px;
+        height: 100px;
+        background: url(../img/quote.svg) no-repeat center center/contain;
+        position: relative;
+        transform: translateY(70px);
+        margin-top: -10vw;
+        z-index: 0;
+
+        @include breakFirst($screen-md) {
+            width: 131px;
+            height: 131px;
+            margin-top: -2vw;
+        }
+    }
+
+    .quote-text {
+        padding: 0 30px ;
+        @include breakFirst($screen-md) {
+            padding: 0 60px;
+        }
+        p {
+            display: block;
+            font-family: $serifFontFamily;
+            width: 100%;
+            position: relative;
+            @include font-size(30);
+            @include breakFirst($screen-md) {
+                @include font-size(54);
+            }
+        }
+
+        span.quote-credit {
+            @include font-size(20);
+        }
+    }
+}
+
+// Page Section
+.page-section {
+    h2 {
+        @include font-size(36);
+        @include breakFirst($screen-md) {
+            @include font-size(54);
+        }
+    }
+}
+
