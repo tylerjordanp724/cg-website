@@ -1,4 +1,10 @@
-<?php get_header()?> 
+<?php 
+/**
+ * Tempplate Name : Front Page Template
+ * 
+ * 
+ */
+get_header()?> 
     <div class="page-header py-4 px-3">
         <div class="page-header__inner container d-md-flex align-items-center justify-content-between">
             <div class="page-header__col-left d-none d-md-flex">
