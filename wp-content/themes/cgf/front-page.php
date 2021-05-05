@@ -1,6 +1,6 @@
 <?php 
 /**
- * Tempplate Name : Front Page Template
+ * Template Name : Front Page Template
  * 
  * 
  */
