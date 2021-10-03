@@ -69,27 +69,17 @@ get_header()?>
                 <a href="https://www.youtube.com/channel/UCCjE9XP8xI8OVPfhSjn9OvQ" target="_blank" class="cta--text">Check out my YouTube channel<span class="arrow"></span></a>
             </div>
             <div class="page-section__content container px-0 py-5 d-md-flex">
-                <div class="content-item col-md px-0" data-content="Qyxwxn4SuEk" data-title="Robert, toi que j'aime">
+                <div class="content-item col-md px-0" data-content="LPyAhBH9IUA" data-title="Signore, ascolta">
                     <div class="content-img img--cover mb-3">
                         <figure>
                             <picture>
-                                <img src="<?php echo get_bloginfo('template_url');?>/img/img03.jpg"/>
+                                <img src="<?php echo get_bloginfo('template_url');?>/img/img06.jpg"/>
                             </picture>
                         </figure>
                     </div>
-                    <span class="content-item__title">Robert, toi que j'aime</span>
+                    <span class="content-item__title">Signore, Ascolta</span>
                 </div>
-                <div class="content-item col-md px-0 px-md-3" data-content="ySR-v4urg6Q" data-title="Come in quest'ora bruna">
-                    <div class="content-img img--cover mb-3">
-                        <figure>
-                            <picture>
-                                <img src="<?php echo get_bloginfo('template_url');?>/img/img04.jpg"/>
-                            </picture>
-                        </figure>
-                    </div>
-                    <span class="content-item__title">Come in quest'ora bruna</span>
-                </div>
-                <div class="content-item col-md px-0" data-content="bkKyBwg5818" data-title="Alabama Song">
+                <div class="content-item col-md px-0 px-md-3" data-content="bkKyBwg5818" data-title="Alabama Song">
                     <div class="content-img img--cover mb-3">
                         <figure>
                             <picture>
@@ -98,6 +88,16 @@ get_header()?>
                         </figure>
                     </div>
                     <span class="content-item__title">Alabama Song</span>
+                </div>
+                <div class="content-item col-md px-0" data-content="z6oY31EXBp0" data-title="Je dis que rien ne m'épouvante">
+                    <div class="content-img img--cover mb-3">
+                        <figure>
+                            <picture>
+                                <img src="<?php echo get_bloginfo('template_url');?>/img/img07.jpg"/>
+                            </picture>
+                        </figure>
+                    </div>
+                    <span class="content-item__title">Je dis que rien ne m'épouvante</span>
                 </div>
             </div>
         </div>
