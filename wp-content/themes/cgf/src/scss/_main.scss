@@ -15,33 +15,43 @@ html, body {
     color: $black;
 
     a {
-        position: relative;
-        overflow: hidden;
         color: $black;
+        display: block;
+        position: relative;
+        text-decoration: none;
+        width: fit-content;
+
+        @include breakFirst($screen-sm) {
+            position: relative;
+            overflow: hidden;
+            
     
-        &:before {
-            content: '';
-            display: block;
-            position: absolute;
-            width: 0;
-            height: 2px;
-            background-color: $black;
-            bottom: 0;
-            right: 0;
-            margin-top: 2px;
-            transition: 0.3s width $cbTrans;
+            &:before {
+                content: '';
+                display: block;
+                position: absolute;
+                width: 0;
+                height: 2px;
+                background-color: $black;
+                bottom: 0;
+                right: 0;
+                margin-top: 2px;
+                transition: 0.3s width $cbTrans;
+            }
+
+            &:hover {
+                color: $black;
+                text-decoration: none;
+            }
+        
+            &:hover:before {
+                left: 0;
+                right: auto;
+                width: 100%;
+            }
         }
         
-        &:hover {
-            color: $black;
-            text-decoration: none;
-        }
-    
-        &:hover:before {
-            left: 0;
-            right: auto;
-            width: 100%;
-        }
+        
 
         &.cta--text {
             display: flex;

@@ -29,8 +29,8 @@ get_header()?>
         </div>
         <div class="page-hero__subtext container py-3 d-block d-md-none align-items-center justify-content-between">
             <div class="subtext__col text-center">
-                <a class="d-block text-center" href="https://www.instagram.com/chantal.gabrielle.freeman/" target="_blank">Instagram</a>
-                <a class="d-block text-center" href="https://www.youtube.com/channel/UCCjE9XP8xI8OVPfhSjn9OvQ" target="_blank">YouTube</a>
+                <a class="d-block text-center m-auto" href="https://www.instagram.com/chantal.gabrielle.freeman/" target="_blank">Instagram</a>
+                <a class="d-block text-center m-auto" href="https://www.youtube.com/channel/UCCjE9XP8xI8OVPfhSjn9OvQ" target="_blank">YouTube</a>
                 <span class="d-block">Full site coming soon!</span>
             </div>
         </div>
