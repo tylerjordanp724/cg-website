@@ -57,6 +57,14 @@
       "oAP" : "\/wp-activate.php",
       "oF" : 0
     },
+    "\/wp-admin\/about.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-admin\/about.php",
+      "oF" : 0
+    },
     "\/wp-admin\/admin-ajax.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2922,6 +2930,14 @@
       "oAP" : "\/wp-admin\/includes\/admin.php",
       "oF" : 0
     },
+    "\/wp-admin\/includes\/ajax-actions.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-admin\/includes\/ajax-actions.php",
+      "oF" : 0
+    },
     "\/wp-admin\/includes\/bookmark.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3720,6 +3736,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-admin\/includes\/update.php",
+      "oF" : 0
+    },
+    "\/wp-admin\/includes\/upgrade.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-admin\/includes\/upgrade.php",
       "oF" : 0
     },
     "\/wp-admin\/includes\/user.php" : {
@@ -6454,6 +6478,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-content\/themes\/cgf\/readme.txt",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/cgf\/resume.pdf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/cgf\/resume.pdf",
       "oF" : 0
     },
     "\/wp-content\/themes\/cgf\/screenshot.png" : {
@@ -15760,6 +15792,14 @@
       "oAP" : "\/wp-includes\/category.php",
       "oF" : 0
     },
+    "\/wp-includes\/certificates\/ca-bundle.crt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/certificates\/ca-bundle.crt",
+      "oF" : 0
+    },
     "\/wp-includes\/class-feed.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -16288,6 +16328,14 @@
       "oAP" : "\/wp-includes\/class-wp-matchesmapregex.php",
       "oF" : 0
     },
+    "\/wp-includes\/class-wp-meta-query.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-wp-meta-query.php",
+      "oF" : 0
+    },
     "\/wp-includes\/class-wp-metadata-lazyloader.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -16470,6 +16518,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/class-wp-site.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/class-wp-tax-query.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-wp-tax-query.php",
       "oF" : 0
     },
     "\/wp-includes\/class-wp-taxonomy.php" : {
@@ -18432,6 +18488,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/fonts\/dashicons.woff2",
+      "oF" : 0
+    },
+    "\/wp-includes\/formatting.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/formatting.php",
       "oF" : 0
     },
     "\/wp-includes\/functions.php" : {
@@ -24957,6 +25021,14 @@
       "oAP" : "\/wp-includes\/post-thumbnail-template.php",
       "oF" : 0
     },
+    "\/wp-includes\/post.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/post.php",
+      "oF" : 0
+    },
     "\/wp-includes\/query.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -25867,6 +25939,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/rss.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/script-loader.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/script-loader.php",
       "oF" : 0
     },
     "\/wp-includes\/session.php" : {
@@ -27223,6 +27303,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/vars.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/version.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/version.php",
       "oF" : 0
     },
     "\/wp-includes\/widgets.php" : {
