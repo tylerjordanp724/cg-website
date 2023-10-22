@@ -55,7 +55,7 @@ get_header()?>
             </div>
             <div class="page-cta__col--text col-md pl-0 ">
                 <div class="col__inner">
-                    <h3 class="d-block mb-0">Mor About Chantal</h3>
+                    <h3 class="d-block mb-0">More About Chantal</h3>
                     <p class="d-block py-4">Recently engaged with On Site Opera, American Lyric Theater and New York Choral Society, Chantal is an inspiring, versatile soprano poised to make an impact in the classical world.</p>
                     <a href="<?php echo get_bloginfo('template_url');?>/resume.pdf" target="_blank" class="btn"><span>View my resume</span><span class="arrow"></span></a>
                 </div>
