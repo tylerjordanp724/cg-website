@@ -1,3 +1,12 @@
+const getVideoThumbs = () => {
+    $videoPlayer.each(function () {
+        const vidThumbSrc = $(this).attr("data-thumb");
+        const ytID = $(this).attr('data-id');
+        
+        $(this).html(`<img class="b-lazy" data-src="${vidThumbSrc ? vidThumbSrc : `//i.ytimg.com/vi/${ytID}/0.jpg`}"/>`).append('<button class="btn btn--play"><span class="sr-only">Play</span></button>');
+    });
+}
+ 
  $(document).ready(function(){
     $('.content-item').click(function(){
         var ytID = $(this).attr('data-content');

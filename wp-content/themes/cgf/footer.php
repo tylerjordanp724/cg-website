@@ -13,7 +13,7 @@
 
 	<footer class="page-footer py-4 px-3">
         <div class="page-footer__inner container">
-            &copy; 2021 | Site by Tyler Jordan Perry
+            &copy; <?php echo date('Y');?> | Site by Tyler Jordan Perry
         </div>
     </footer>
 </div><!-- #page -->
