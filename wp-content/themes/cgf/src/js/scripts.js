@@ -1,13 +1,19 @@
+const $contentItem = $('.content-item');
+
 const getVideoThumbs = () => {
-    $videoPlayer.each(function () {
+    $contentItem.each(function () {
         const vidThumbSrc = $(this).attr("data-thumb");
-        const ytID = $(this).attr('data-id');
+        const ytID = $(this).attr('data-content');
+        const vidTitle = $(this).attr('data-title');
         
-        $(this).html(`<img class="b-lazy" data-src="${vidThumbSrc ? vidThumbSrc : `//i.ytimg.com/vi/${ytID}/0.jpg`}"/>`).append('<button class="btn btn--play"><span class="sr-only">Play</span></button>');
+        $(this).html(`
+        <div class="content-img img--cover mb-3"><figure><picture><img src="${vidThumbSrc ? vidThumbSrc : `//i.ytimg.com/vi/${ytID}/0.jpg`}"/></picture></figure></div><span class="content-item__title">${vidTitle}</span>`);
     });
 }
  
  $(document).ready(function(){
+    getVideoThumbs();
+
     $('.content-item').click(function(){
         var ytID = $(this).attr('data-content');
             vidTitle = $(this).attr('data-title');

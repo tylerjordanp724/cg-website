@@ -75,36 +75,8 @@ get_header()?>
                 <a href="https://www.youtube.com/channel/UCCjE9XP8xI8OVPfhSjn9OvQ" target="_blank" class="cta--text">Check out my YouTube channel<span class="arrow"></span></a>
             </div>
             <div class="page-section__content container px-0 py-5 d-md-flex">
-                <div class="content-item col-md px-0" data-content="LPyAhBH9IUA" data-title="Signore, ascolta">
-                    <div class="content-img img--cover mb-3">
-                        <figure>
-                            <picture>
-                                <img src="<?php echo get_bloginfo('template_url');?>/img/img06.jpg"/>
-                            </picture>
-                        </figure>
-                    </div>
-                    <span class="content-item__title">Signore, Ascolta</span>
-                </div>
-                <div class="content-item col-md px-0 px-md-3" data-content="bkKyBwg5818" data-title="Alabama Song">
-                    <div class="content-img img--cover mb-3">
-                        <figure>
-                            <picture>
-                                <img src="<?php echo get_bloginfo('template_url');?>/img/img05.jpg"/>
-                            </picture>
-                        </figure>
-                    </div>
-                    <span class="content-item__title">Alabama Song</span>
-                </div>
-                <div class="content-item col-md px-0" data-content="z6oY31EXBp0" data-title="Je dis que rien ne m'épouvante">
-                    <div class="content-img img--cover mb-3">
-                        <figure>
-                            <picture>
-                                <img src="<?php echo get_bloginfo('template_url');?>/img/img07.jpg"/>
-                            </picture>
-                        </figure>
-                    </div>
-                    <span class="content-item__title">Je dis que rien ne m'épouvante</span>
-                </div>
+                <div class="content-item col-md px-0" data-content="U2GZFo95umI" data-title="E Susanna non vien....dove sono from Mozart's Le Nozze di Figaro"></div>
+                <div class="content-item col-md px-0 px-md-3" data-content="qagG8DnAu7Y" data-title="Si, mi chiamano Mimi from Puccini's La Boheme"></div>
             </div>
         </div>
     </div>
