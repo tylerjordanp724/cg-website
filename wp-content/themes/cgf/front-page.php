@@ -9,13 +9,12 @@ get_header()?>
         <div class="page-header__inner container d-md-flex align-items-center justify-content-between">
             <div class="page-header__col-left d-none d-md-flex">
                 <a href="https://www.instagram.com/chantal.gabrielle.freeman/" target="_blank" class="mr-3" href="">Instagram</a>
-                <a href="https://www.youtube.com/channel/UCCjE9XP8xI8OVPfhSjn9OvQ" target="_blank">YouTube</a>
             </div>
             <div class="page-header__col-center">
                 <div class="logo m-auto m-md-0"></div>
             </div>
             <div class="page-header__col-right d-none d-md-block">
-                <span>Full site coming soon!</span>
+                <a href="https://www.youtube.com/channel/UCCjE9XP8xI8OVPfhSjn9OvQ" target="_blank">YouTube</a>
             </div>
         </div>
     </div>
@@ -31,7 +30,6 @@ get_header()?>
             <div class="subtext__col text-center">
                 <a class="d-block text-center m-auto" href="https://www.instagram.com/chantal.gabrielle.freeman/" target="_blank">Instagram</a>
                 <a class="d-block text-center m-auto" href="https://www.youtube.com/channel/UCCjE9XP8xI8OVPfhSjn9OvQ" target="_blank">YouTube</a>
-                <span class="d-block">Full site coming soon!</span>
             </div>
         </div>
     </div>
@@ -102,9 +100,9 @@ get_header()?>
     </div>
     <div class="modal-window">
         <div class="close-btn">
-            <div class="close-btn__slice"></div>
-            <div class="close-btn__slice"></div>
+            <div class="close-icon"></div>
         </div>
+        <div class="about-container"></div>
         <div class="video-container"></div>
     </div>
 <?php get_footer();?>

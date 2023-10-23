@@ -10,6 +10,15 @@ const getVideoThumbs = () => {
         <div class="content-img img--cover mb-3"><figure><picture><img src="${vidThumbSrc ? vidThumbSrc : `//i.ytimg.com/vi/${ytID}/0.jpg`}"/></picture></figure></div><span class="content-item__title">${vidTitle}</span>`);
     });
 }
+
+const showBioModal = () => {
+    const $bioModalTrigger = $('.bio-modal-trigger');
+
+    $bioModalTrigger.click(function() {
+        $('.modal-window').addClass('open');
+        $('body').addClass('modal-open');
+    });
+}
  
  $(document).ready(function(){
     getVideoThumbs();
