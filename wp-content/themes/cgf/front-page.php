@@ -9,12 +9,13 @@ get_header()?>
         <div class="page-header__inner container d-md-flex align-items-center justify-content-between">
             <div class="page-header__col-left d-none d-md-flex">
                 <a href="https://www.instagram.com/chantal.gabrielle.freeman/" target="_blank" class="mr-3" href="">Instagram</a>
+                <a href="https://www.youtube.com/channel/UCCjE9XP8xI8OVPfhSjn9OvQ" target="_blank">YouTube</a>
             </div>
             <div class="page-header__col-center">
                 <div class="logo m-auto m-md-0"></div>
             </div>
             <div class="page-header__col-right d-none d-md-block">
-                <a href="https://www.youtube.com/channel/UCCjE9XP8xI8OVPfhSjn9OvQ" target="_blank">YouTube</a>
+                <a href="<?php echo get_bloginfo('template_url');?>/resume.pdf" target="_blank">View my resumé</a>
             </div>
         </div>
     </div>
@@ -30,6 +31,7 @@ get_header()?>
             <div class="subtext__col text-center">
                 <a class="d-block text-center m-auto" href="https://www.instagram.com/chantal.gabrielle.freeman/" target="_blank">Instagram</a>
                 <a class="d-block text-center m-auto" href="https://www.youtube.com/channel/UCCjE9XP8xI8OVPfhSjn9OvQ" target="_blank">YouTube</a>
+                <a class="d-block text-center m-auto"href="<?php echo get_bloginfo('template_url');?>/resume.pdf" target="_blank">View my resumé</a>
             </div>
         </div>
     </div>
@@ -55,7 +57,7 @@ get_header()?>
                 <div class="col__inner">
                     <h3 class="d-block mb-0">More About Chantal</h3>
                     <p class="d-block py-4">Recently engaged with On Site Opera, American Lyric Theater and New York Choral Society, Chantal is an inspiring, versatile soprano poised to make an impact in the classical world.</p>
-                    <a href="<?php echo get_bloginfo('template_url');?>/resume.pdf" target="_blank" class="btn"><span>View my resume</span><span class="arrow"></span></a>
+                    <div class="btn bio-modal-trigger"><span>Read my bio</span> <span class="arrow"></span></div>
                 </div>
             </div>
         </div>
@@ -74,7 +76,8 @@ get_header()?>
             </div>
             <div class="page-section__content container px-0 py-5 d-md-flex">
                 <div class="content-item col-md px-0" data-content="U2GZFo95umI" data-title="E Susanna non vien....dove sono from Mozart's Le Nozze di Figaro"></div>
-                <div class="content-item col-md px-0 px-md-3" data-content="qagG8DnAu7Y" data-title="Si, mi chiamano Mimi from Puccini's La Boheme"></div>
+                <div class="content-item col-md px-0 px-md-3" data-content="SsM_bUN4CAM" data-title="Hold Fast to Dreams"></div>
+                <div class="content-item col-md px-0" data-content="qagG8DnAu7Y" data-title="Si, mi chiamano Mimi from Puccini's La Boheme"></div>
             </div>
         </div>
     </div>

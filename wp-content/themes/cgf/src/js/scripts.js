@@ -21,6 +21,7 @@ const showBioModal = () => {
 }
  
  $(document).ready(function(){
+    showBioModal();
     getVideoThumbs();
 
     $('.content-item').click(function(){
