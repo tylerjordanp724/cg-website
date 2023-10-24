@@ -62,10 +62,28 @@ get_header()?>
             </div>
         </div>
     </div>
-    <div class="page-text py-5 px-3">
+    <!-- <div class="page-text py-5 px-3">
         <div class="page-text__inner container text-center">
             <h3 class="d-block mb-0">In Her Own Words</h3>
             <p class="d-block py-4">Music is life's way of speaking straight from the soul. Every step in the process to bring a score to life, the technique, language, dramatic intent and sound all converge to communicate the most elusive moments and emotions of our lived experience. I'm happy to be a part of that story and that sharing, and hope to share it as long as I have breath in my lungs.</p>
+        </div>
+    </div> -->
+    <div class="page-section py-5 px-3">
+        <div class="page-section__inner container">
+            <div class="page-section__title d-md-flex align-items-center">
+                <h2>Upcoming Events</h2>
+            </div>
+            <div class="event-list pt-4">
+                <ul class="pl-0">
+                    <li class="d-md-flex justify-content-between mb-3 py-2">
+                        <div class="list-col col-md d-md-flex">
+                            <div class="event__date col-md text-center"><span>dec</span><br/><span>01</span></div>
+                            <div class="event__info col-md"><span>venue name</span><br/><span>venue location</span></div>
+                        </div>  
+                        <div class="event__link col-md"><a href="" target="_blank">Get tickets</a></div>
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
     <div class="page-section py-5 px-3">
