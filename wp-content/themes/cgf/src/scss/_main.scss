@@ -64,7 +64,6 @@ html, body {
             &:hover:before {
                 left: 0;
                 right: 32px;
-                width: calc(100% - 32px);
             }
 
             span.arrow {
@@ -160,7 +159,7 @@ a.btn, .btn {
             width: 100%;
             height: 0;
             overflow: hidden;
-            padding-bottom: 50vw;
+            padding-bottom: 60vw;
             background-color: #cccc;
 
             @include breakFirst($screen-md) {
@@ -302,8 +301,29 @@ a.btn, .btn {
                 position: absolute;
                 width: 100%;
                 height: 100%;
+                opacity: 0.8;
     
             }
+
+            &:hover figure picture img {
+                opacity: 1;
+                transition: opacity 0.3s $cbTrans;
+            }
+        }
+    }
+
+    .event-list {
+        ul {
+            list-style: none;
+        }
+
+        ul li .list-col .event__date {
+            width: 100px;
+        }
+
+        ul li .list-col .event__info span:first-child {
+            display: block;
+            margin-bottom: 5px;
         }
     }
 }
@@ -312,7 +332,8 @@ a.btn, .btn {
     position: fixed;
     width: 100%;
     height: 100%;
-    @include background-opacity($black, 0.8);
+    @include background-opacity($black, 0.9);
+    backdrop-filter: blur(20px);
     z-index: 999;
     top: 0;
     left: 0;
@@ -334,22 +355,32 @@ a.btn, .btn {
         border-radius: 100%;
         cursor: pointer;
         padding: 5px;
-        transform: rotate(45deg);
 
-        &__slice {
+        .close-icon {
             position: relative;
-            width: calc(100%);
-            height: 1px;
-            background-color: $white;
-            margin: auto;
+            width: 100%;
+            height: 100%;
             top: 10px;
-            left: 0;
-            right: 0;
-            transform-origin: center;
-        }
+            margin: auto;
 
-        &__slice:last-child {
-            transform: rotate(90deg);
+            &:before,
+            &:after {
+                display: block;
+                content: '';
+                width: 22px;
+                height: 1px;
+                background-color: $white;
+                position: relative;
+                margin: auto;
+            }
+
+            &:before {
+                transform: rotate(45deg);
+            }
+
+            &:after {
+                transform: rotate(-45deg);
+            }
         }
     }
 
@@ -377,5 +408,21 @@ a.btn, .btn {
             left: 0;
         }
     }
+
+    .about-container .about-info {
+        max-width: 800px;
+        padding: 0 30px 50% 30px;
+        margin: auto;
+        position: relative;
+        top: 105px;
+
+        p {
+            margin-bottom: 60px;
+        }
+
+        @include breakFirst($screen-md) {
+            padding: 0 60px;
+        }
+    } 
 }
 
