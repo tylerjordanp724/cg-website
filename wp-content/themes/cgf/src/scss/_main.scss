@@ -408,7 +408,7 @@ a.btn, .btn {
             left: 0;
         }
     }
-    
+
     .about-container .about-info {
         max-width: 800px;
         padding: 0 30px 50% 30px;
@@ -421,7 +421,7 @@ a.btn, .btn {
         }
 
         @include breakFirst($screen-md) {
-            padding: 0 60px;
+            padding: 0 60px 50% 60px;
         }
     } 
 }
