@@ -64,7 +64,6 @@ html, body {
             &:hover:before {
                 left: 0;
                 right: 32px;
-                width: calc(100% - 32px);
             }
 
             span.arrow {
@@ -312,6 +311,21 @@ a.btn, .btn {
             }
         }
     }
+
+    .event-list {
+        ul {
+            list-style: none;
+        }
+
+        ul li .list-col .event__date {
+            width: 100px;
+        }
+
+        ul li .list-col .event__info span:first-child {
+            display: block;
+            margin-bottom: 5px;
+        }
+    }
 }
 
 .modal-window {
@@ -394,5 +408,21 @@ a.btn, .btn {
             left: 0;
         }
     }
+
+    .about-container .about-info {
+        max-width: 800px;
+        padding: 0 60px 50% 60px;
+        margin: auto;
+        position: relative;
+        top: 105px;
+
+        p {
+            margin-bottom: 60px;
+        }
+
+        @include breakFirst($screen-md) {
+            padding: 0 30px;
+        }
+    } 
 }
 
