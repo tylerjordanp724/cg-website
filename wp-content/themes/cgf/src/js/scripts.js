@@ -6,8 +6,7 @@ const getVideoThumbs = () => {
         const ytID = $(this).attr('data-content');
         const vidTitle = $(this).attr('data-title');
         
-        $(this).html(`
-        <div class="content-img img--cover mb-3"><figure><picture><img src="${vidThumbSrc ? vidThumbSrc : `//i.ytimg.com/vi/${ytID}/0.jpg`}"/></picture></figure></div><span class="content-item__title">${vidTitle}</span>`);
+        $(this).html(`<div class="content-img img--cover mb-3"><figure><picture><img src="${vidThumbSrc ? vidThumbSrc : `//i.ytimg.com/vi/${ytID}/0.jpg`}"/></picture></figure></div><span class="content-item__title">${vidTitle}</span>`);
     });
 }
 
