@@ -319,11 +319,16 @@ a.btn, .btn {
 
         ul li .list-col .event__date {
             width: 100px;
+            text-align: center;
         }
 
         ul li .list-col .event__info span:first-child {
             display: block;
             margin-bottom: 5px;
+        }
+
+        ul li a {
+            text-align: center;
         }
     }
 }

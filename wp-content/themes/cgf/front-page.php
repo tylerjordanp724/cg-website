@@ -55,8 +55,8 @@ get_header()?>
             </div>
             <div class="page-cta__col--text col-md pl-0 ">
                 <div class="col__inner">
-                    <h3 class="d-block mb-0">More About Chantal</h3>
-                    <p class="d-block py-4">Recently engaged with On Site Opera, American Lyric Theater and New York Choral Society, Chantal is an inspiring, versatile soprano poised to make an impact in the classical world.</p>
+                    <!-- <h3 class="d-block mb-0">More About Chantal</h3> -->
+                    <p class="d-block py-4">“Beautifully captured and conveyed the expressive meaning of the musical texts. Her voice soared with a clear, bright, and powerful voice that easily filled the theater. She confidently delivered crystal-clear notes from her upper register to lower warm notes that blended with the other vocal parts.”<br/><br/>- Opening Night Reviews</p>
                     <div class="btn bio-modal-trigger"><span>Read my bio</span> <span class="arrow"></span></div>
                 </div>
             </div>
@@ -71,40 +71,33 @@ get_header()?>
                 <ul class="pl-0">
                     <li class="d-flex justify-content-between mb-3 py-2">
                         <div class="list-col">
-                            <div class="event__date col-md text-center text-uppercase px-0"><span>Nov</span><br/><span>17 - 18</span></div>
+                            <div class="event__date col-md text-center text-uppercase px-0"><span>Mar</span><br/><span>22</span></div>
                         </div> 
                         <div class="list-col col-md d-md-flex justify-content-between">
                             <div class="event__info col-md mb-4 mb-md-0">
-                                <span>Angel of Many Signs with New York Choral Society</span><span>New York City, NY</span>
+                                <span>A Very Black Variety Show</span><span>Brooklyn, NY at Littlefield NYC</span>
                             </div> 
                             <div class="event__link justify-md-self-end ml-2 ml-md-0">
-                                <a class="btn" href="https://nychoral.org/event/angel-of-many-signs/" target="_blank"><span>Get tickets</span> <span class="arrow"></span></a>
+                                <a class="btn disabled" href="https://nychoral.org/event/angel-of-many-signs/" target="_blank" disabled><span>Tickets available soon</span>
+                                <!-- <span class="arrow"></span> -->
+                                </a>
                             </div>
                         </div>
                     </li>
                     <li class="d-flex justify-content-between mb-3 py-2">
                         <div class="list-col">
-                            <div class="event__date col-md text-center text-uppercase pl-0"><span>Dec</span><br/><span>9</span></div>
+                            <div class="event__date col-md text-center text-uppercase pl-0"><span>Apr</span><br/><span>10</span></div>
                         </div> 
                         <div class="list-col col-md d-md-flex justify-content-between">
                             <div class="event__info col-md mb-4 mb-md-0">
-                                <span>French Chanson: Songs of Love, Hope and Fidelity</span><span>Philadelphia, PA</span>
+                                <span>The Reef, Berkshire Opera Festival</span><span>New York, NY</span>
                             </div> 
                             <div class="event__link justify-md-self-end ml-2 ml-md-0">
-                                <a class="btn" href="https://www.eventbrite.com/e/743127132257?aff=oddtdtcreator" target="_blank"><span>Get tickets</span> <span class="arrow"></span></a>
+                                <a class="btn" href="https://www.kaufmanmusiccenter.org/mch/event/anthony-davis-joan-ross-sorkins-the-reef/" target="_blank"><span>Get tickets</span> <span class="arrow"></span></a>
                             </div>
                         </div>
                     </li>
-                    <li class="d-flex justify-content-between mb-3 py-2">
-                        <div class="list-col">
-                            <div class="event__date col-md text-center text-uppercase pl-0"><span>Dec</span><br/><span>17</span></div>
-                        </div> 
-                        <div class="list-col col-md d-md-flex justify-content-between">
-                            <div class="event__info col-md mb-4 mb-md-0">
-                                <span>Soprano Soloist at Salem Baptist Church of Abington</span><span>Philadelphia, PA</span>
-                            </div> 
-                        </div>
-                    </li>
+                    
                 </ul>
             </div>
         </div>
@@ -117,7 +110,7 @@ get_header()?>
             </div>
             <div class="page-section__content container px-0 py-5 d-md-flex">
                 <div class="content-item col-md px-0" data-content="U2GZFo95umI" data-title="E Susanna non vien....dove sono from Mozart's Le Nozze di Figaro"></div>
-                <div class="content-item col-md px-0 px-md-3" data-content="SsM_bUN4CAM" data-title="Hold Fast to Dreams"></div>
+                <div class="content-item col-md px-0 px-md-3" data-content="9MAXmIjff8U" data-title="Glück das mir verblieb from Die Tote Stadt"></div>
                 <div class="content-item col-md px-0" data-content="qagG8DnAu7Y" data-title="Si, mi chiamano Mimi from Puccini's La Boheme"></div>
             </div>
         </div>
