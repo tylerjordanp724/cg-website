@@ -109,9 +109,9 @@ get_header()?>
                 <a href="https://www.youtube.com/channel/UCCjE9XP8xI8OVPfhSjn9OvQ" target="_blank" class="cta--text">Check out my YouTube channel</a>
             </div>
             <div class="page-section__content container px-0 py-5 d-md-flex">
-                <div class="content-item col-md px-0" data-content="U2GZFo95umI" data-title="E Susanna non vien....dove sono from Mozart's Le Nozze di Figaro"></div>
-                <div class="content-item col-md px-0 px-md-3" data-content="9MAXmIjff8U" data-title="Glück das mir verblieb from Die Tote Stadt"></div>
-                <div class="content-item col-md px-0" data-content="qagG8DnAu7Y" data-title="Si, mi chiamano Mimi from Puccini's La Boheme"></div>
+                <div class="content-item col-md px-0" data-content="n0-a_pwhKX8" data-title="Micaëla's Aria"></div>
+                <div class="content-item col-md px-0 px-md-3" data-content="RiRvFFLbgXg" data-title="E Susanna non vien...dove sono i bei momenti"></div>
+                <div class="content-item col-md px-0" data-content="16Xg0E8ncF8" data-title="How Fair This Spot"></div>
             </div>
         </div>
     </div>

@@ -137,6 +137,14 @@
       "oAP" : "\/wp-admin\/comment.php",
       "oF" : 0
     },
+    "\/wp-admin\/contribute.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-admin\/contribute.php",
+      "oF" : 0
+    },
     "\/wp-admin\/credits.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2014,41 +2022,11 @@
       "oAP" : "\/wp-admin\/freedoms.php",
       "oF" : 0
     },
-    "\/wp-admin\/images\/about-header-about.svg" : {
+    "\/wp-admin\/images\/about-release-badge.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/wp-admin\/images\/about-header-about.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/wp-admin\/images\/about-header-credits.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/wp-admin\/images\/about-header-credits.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/wp-admin\/images\/about-header-freedoms.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/wp-admin\/images\/about-header-freedoms.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/wp-admin\/images\/about-header-privacy.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/wp-admin\/images\/about-header-privacy.svg",
+      "oAP" : "\/wp-admin\/images\/about-release-badge.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -2268,6 +2246,46 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/wp-admin\/images\/contribute-code.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-admin\/images\/contribute-code.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/wp-admin\/images\/contribute-main.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-admin\/images\/contribute-main.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/wp-admin\/images\/contribute-no-code.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-admin\/images\/contribute-no-code.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/wp-admin\/images\/dashboard-background.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-admin\/images\/dashboard-background.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/wp-admin\/images\/date-button-2x.gif" : {
       "ft" : 4194304,
@@ -4404,6 +4422,28 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/wp-admin\/js\/password-toggle.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/js\/password-toggle.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-admin\/js\/password-toggle.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/js\/password-toggle.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/wp-admin\/js\/plugin-install.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -4554,6 +4594,28 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/js\/site-health.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-admin\/js\/site-icon.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/js\/site-icon.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-admin\/js\/site-icon.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/js\/site-icon.min.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
@@ -5184,6 +5246,14 @@
       "oAP" : "\/wp-admin\/network\/admin.php",
       "oF" : 0
     },
+    "\/wp-admin\/network\/contribute.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-admin\/network\/contribute.php",
+      "oF" : 0
+    },
     "\/wp-admin\/network\/credits.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -5694,6 +5764,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-admin\/user\/admin.php",
+      "oF" : 0
+    },
+    "\/wp-admin\/user\/contribute.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-admin\/user\/contribute.php",
       "oF" : 0
     },
     "\/wp-admin\/user\/credits.php" : {
@@ -8652,6 +8730,897 @@
       "oAP" : "\/wp-content\/themes\/index.php",
       "oF" : 0
     },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/css\/button-outline.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/css\/button-outline-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/cardo\/cardo_italic_400.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/cardo\/cardo_italic_400.woff2",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/cardo\/cardo_normal_400.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/cardo\/cardo_normal_400.woff2",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/cardo\/cardo_normal_700.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/cardo\/cardo_normal_700.woff2",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/cardo\/LICENSE.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/cardo\/LICENSE.txt",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/instrument-sans\/InstrumentSans-Italic-VariableFont_wdth,wght.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/instrument-sans\/InstrumentSans-Italic-VariableFont_wdth,wght.woff2",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/instrument-sans\/InstrumentSans-VariableFont_wdth,wght.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/instrument-sans\/InstrumentSans-VariableFont_wdth,wght.woff2",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/instrument-sans\/OFL.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/instrument-sans\/OFL.txt",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/inter\/Inter-VariableFont_slnt,wght.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/inter\/Inter-VariableFont_slnt,wght.woff2",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/inter\/LICENSE.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/inter\/LICENSE.txt",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/jost\/Jost-Italic-VariableFont_wght.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/jost\/Jost-Italic-VariableFont_wght.woff2",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/jost\/Jost-VariableFont_wght.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/jost\/Jost-VariableFont_wght.woff2",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/jost\/OFL.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/fonts\/jost\/OFL.txt",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/abstract-geometric-art.webp" : {
+      "ft" : 8388608,
+      "iS" : 100774,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/abstract-geometric-art.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/angular-roof.webp" : {
+      "ft" : 8388608,
+      "iS" : 83964,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/angular-roof.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/art-gallery.webp" : {
+      "ft" : 8388608,
+      "iS" : 118230,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/art-gallery.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/building-exterior.webp" : {
+      "ft" : 8388608,
+      "iS" : 199724,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/building-exterior.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/green-staircase.webp" : {
+      "ft" : 8388608,
+      "iS" : 249360,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/green-staircase.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/hotel-facade.webp" : {
+      "ft" : 8388608,
+      "iS" : 82374,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/hotel-facade.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/icon-message.webp" : {
+      "ft" : 8388608,
+      "iS" : 1258,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/icon-message.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/museum.webp" : {
+      "ft" : 8388608,
+      "iS" : 123690,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/museum.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/tourist-and-building.webp" : {
+      "ft" : 8388608,
+      "iS" : 66482,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/tourist-and-building.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/windows.webp" : {
+      "ft" : 8388608,
+      "iS" : 126244,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/assets\/images\/windows.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/functions.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/functions.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/parts\/footer.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/parts\/footer.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/parts\/header.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/parts\/header.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/parts\/post-meta.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/parts\/post-meta.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/parts\/sidebar.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/parts\/sidebar.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/banner-hero.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/banner-hero.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/banner-project-description.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/banner-project-description.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/cta-content-image-on-right.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/cta-content-image-on-right.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/cta-pricing.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/cta-pricing.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/cta-rsvp.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/cta-rsvp.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/cta-services-image-left.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/cta-services-image-left.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/cta-subscribe-centered.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/cta-subscribe-centered.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/footer-centered-logo-nav.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/footer-centered-logo-nav.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/footer-colophon-3-col.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/footer-colophon-3-col.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/footer.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/footer.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/gallery-full-screen-image.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/gallery-full-screen-image.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/gallery-offset-images-grid-2-col.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/gallery-offset-images-grid-2-col.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/gallery-offset-images-grid-3-col.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/gallery-offset-images-grid-3-col.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/gallery-offset-images-grid-4-col.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/gallery-offset-images-grid-4-col.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/gallery-project-layout.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/gallery-project-layout.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-404.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-404.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-comments.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-comments.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-no-results.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-no-results.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-portfolio-hero.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-portfolio-hero.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-post-meta.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-post-meta.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-post-navigation.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-post-navigation.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-search.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-search.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-sidebar.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/hidden-sidebar.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-about-business.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-about-business.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-home-blogging.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-home-blogging.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-home-business.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-home-business.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-home-portfolio-gallery.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-home-portfolio-gallery.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-home-portfolio.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-home-portfolio.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-newsletter-landing.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-newsletter-landing.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-portfolio-overview.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-portfolio-overview.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-rsvp-landing.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/page-rsvp-landing.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/posts-1-col.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/posts-1-col.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/posts-3-col.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/posts-3-col.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/posts-grid-2-col.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/posts-grid-2-col.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/posts-images-only-3-col.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/posts-images-only-3-col.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/posts-images-only-offset-4-col.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/posts-images-only-offset-4-col.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/posts-list.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/posts-list.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/team-4-col.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/team-4-col.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-archive-blogging.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-archive-blogging.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-archive-portfolio.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-archive-portfolio.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-home-blogging.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-home-blogging.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-home-business.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-home-business.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-home-portfolio.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-home-portfolio.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-index-blogging.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-index-blogging.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-index-portfolio.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-index-portfolio.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-search-blogging.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-search-blogging.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-search-portfolio.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-search-portfolio.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-single-portfolio.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/template-single-portfolio.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/testimonial-centered.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/testimonial-centered.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-alternating-images.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-alternating-images.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-centered-statement-small.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-centered-statement-small.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-centered-statement.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-centered-statement.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-faq.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-faq.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-feature-grid-3-col.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-feature-grid-3-col.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-project-details.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-project-details.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-title-left-image-right.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/patterns\/text-title-left-image-right.php",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/readme.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/readme.txt",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/screenshot.png" : {
+      "ft" : 32768,
+      "iS" : 721059,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/screenshot.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/style.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/style-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/styles\/ember.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/styles\/ember-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/styles\/fossil.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/styles\/fossil-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/styles\/ice.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/styles\/ice-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/styles\/maelstrom.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/styles\/maelstrom-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/styles\/mint.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/styles\/mint-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/styles\/onyx.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/styles\/onyx-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/styles\/rust.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/styles\/rust-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/templates\/404.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/templates\/404.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/templates\/archive.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/templates\/archive.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/templates\/home.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/templates\/home.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/templates\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/templates\/index.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/templates\/page-no-title.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/templates\/page-no-title.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/templates\/page-wide.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/templates\/page-wide.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/templates\/page-with-sidebar.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/templates\/page-with-sidebar.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/templates\/page.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/templates\/page.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/templates\/search.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/templates\/search.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/templates\/single-with-sidebar.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/templates\/single-with-sidebar.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/templates\/single.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/templates\/single.html",
+      "oF" : 0
+    },
+    "\/wp-content\/themes\/twentytwentyfour\/theme.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/wp-content\/themes\/twentytwentyfour\/theme-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
     "\/wp-content\/themes\/twentytwentythree\/assets\/fonts\/dm-sans\/DMSans-Bold-Italic.woff2" : {
       "cB" : 0,
       "ft" : 8192,
@@ -9152,6 +10121,30 @@
       "oAP" : "\/wp-includes\/author-template.php",
       "oF" : 0
     },
+    "\/wp-includes\/block-bindings.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/block-bindings.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/block-bindings\/pattern-overrides.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/block-bindings\/pattern-overrides.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/block-bindings\/post-meta.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/block-bindings\/post-meta.php",
+      "oF" : 0
+    },
     "\/wp-includes\/block-editor.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -9240,6 +10233,22 @@
       "oAP" : "\/wp-includes\/block-supports\/align.php",
       "oF" : 0
     },
+    "\/wp-includes\/block-supports\/background.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/block-supports\/background.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/block-supports\/block-style-variations.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/block-supports\/block-style-variations.php",
+      "oF" : 0
+    },
     "\/wp-includes\/block-supports\/border.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -9302,6 +10311,30 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/block-supports\/layout.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/block-supports\/position.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/block-supports\/position.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/block-supports\/settings.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/block-supports\/settings.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/block-supports\/shadow.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/block-supports\/shadow.php",
       "oF" : 0
     },
     "\/wp-includes\/block-supports\/spacing.php" : {
@@ -9744,60 +10777,20 @@
       "oO" : 0,
       "oS" : 1
     },
-    "\/wp-includes\/blocks\/block\/editor-rtl.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/blocks\/block\/editor-rtl-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/wp-includes\/blocks\/block\/editor-rtl.min.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/blocks\/block\/editor-rtl.min-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/wp-includes\/blocks\/block\/editor.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/blocks\/block\/editor-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/wp-includes\/blocks\/block\/editor.min.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/blocks\/block\/editor.min-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
     "\/wp-includes\/blocks\/blocks-json.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/blocks\/blocks-json.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/blocks\/button.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/button.php",
       "oF" : 0
     },
     "\/wp-includes\/blocks\/button\/block.json" : {
@@ -11136,6 +12129,110 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/wp-includes\/blocks\/details\/block.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/wp-includes\/blocks\/details\/block-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/wp-includes\/blocks\/details\/editor-rtl.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/details\/editor-rtl-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/details\/editor-rtl.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/details\/editor-rtl.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/details\/editor.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/details\/editor-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/details\/editor.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/details\/editor.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/details\/style-rtl.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/details\/style-rtl-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/details\/style-rtl.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/details\/style-rtl.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/details\/style.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/details\/style-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/details\/style.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/details\/style.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/wp-includes\/blocks\/embed\/block.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -11437,6 +12534,70 @@
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
+    },
+    "\/wp-includes\/blocks\/footnotes.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/footnotes.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/blocks\/footnotes\/block.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/wp-includes\/blocks\/footnotes\/block-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/wp-includes\/blocks\/footnotes\/style-rtl.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/footnotes\/style-rtl-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/footnotes\/style-rtl.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/footnotes\/style-rtl.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/footnotes\/style.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/footnotes\/style-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/footnotes\/style.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/footnotes\/style.min-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/wp-includes\/blocks\/freeform\/block.json" : {
       "ft" : 524288,
@@ -11806,6 +12967,14 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/wp-includes\/blocks\/heading.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/heading.php",
+      "oF" : 0
+    },
     "\/wp-includes\/blocks\/heading\/block.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -12094,6 +13263,44 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/wp-includes\/blocks\/image\/view.asset.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/image\/view.asset.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/blocks\/image\/view.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/view.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/blocks\/image\/view.min.asset.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/image\/view.min.asset.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/blocks\/image\/view.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/view.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/wp-includes\/blocks\/index.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -12302,6 +13509,14 @@
       "oO" : 0,
       "oS" : 1
     },
+    "\/wp-includes\/blocks\/list.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/list.php",
+      "oF" : 0
+    },
     "\/wp-includes\/blocks\/list\/block.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -12373,6 +13588,14 @@
       "oF" : 0,
       "oO" : 0,
       "oS" : 1
+    },
+    "\/wp-includes\/blocks\/media-text.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/media-text.php",
+      "oF" : 0
     },
     "\/wp-includes\/blocks\/media-text\/block.json" : {
       "ft" : 524288,
@@ -12838,17 +14061,6 @@
       "oAP" : "\/wp-includes\/blocks\/navigation\/view-modal.asset.php",
       "oF" : 0
     },
-    "\/wp-includes\/blocks\/navigation\/view-modal.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/view-modal.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
     "\/wp-includes\/blocks\/navigation\/view-modal.min.asset.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -12856,17 +14068,6 @@
       "oA" : 0,
       "oAP" : "\/wp-includes\/blocks\/navigation\/view-modal.min.asset.php",
       "oF" : 0
-    },
-    "\/wp-includes\/blocks\/navigation\/view-modal.min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/js\/view-modal.min.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
     },
     "\/wp-includes\/blocks\/navigation\/view.asset.php" : {
       "cB" : 0,
@@ -12961,6 +14162,22 @@
       "oAP" : "\/wp-includes\/blocks\/nextpage\/editor.min-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/wp-includes\/blocks\/page-list-item.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/page-list-item.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/blocks\/page-list-item\/block.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/wp-includes\/blocks\/page-list-item\/block-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
     },
     "\/wp-includes\/blocks\/page-list.php" : {
       "cB" : 0,
@@ -13210,6 +14427,22 @@
       "oO" : 0,
       "oS" : 1
     },
+    "\/wp-includes\/blocks\/post-author-name.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/post-author-name.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/blocks\/post-author-name\/block.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/wp-includes\/blocks\/post-author-name\/block-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
     "\/wp-includes\/blocks\/post-author.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -13401,6 +14634,54 @@
       "oF" : 0,
       "oO" : 0,
       "oS" : 1
+    },
+    "\/wp-includes\/blocks\/post-content\/editor-rtl.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/post-content\/editor-rtl-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/post-content\/editor-rtl.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/post-content\/editor-rtl.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/post-content\/editor.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/post-content\/editor-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/post-content\/editor.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/post-content\/editor.min-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/wp-includes\/blocks\/post-date.php" : {
       "cB" : 0,
@@ -13705,6 +14986,54 @@
       "oF" : 0,
       "oO" : 0,
       "oS" : 1
+    },
+    "\/wp-includes\/blocks\/post-navigation-link\/style-rtl.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/post-navigation-link\/style-rtl-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/post-navigation-link\/style-rtl.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/post-navigation-link\/style-rtl.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/post-navigation-link\/style.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/post-navigation-link\/style-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/post-navigation-link\/style.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/post-navigation-link\/style.min-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/wp-includes\/blocks\/post-template.php" : {
       "cB" : 0,
@@ -14506,6 +15835,44 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/wp-includes\/blocks\/query\/view.asset.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/query\/view.asset.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/blocks\/query\/view.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/view.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/blocks\/query\/view.min.asset.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/query\/view.min.asset.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/blocks\/query\/view.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/view.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/wp-includes\/blocks\/quote\/block.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -14962,6 +16329,44 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/wp-includes\/blocks\/search\/view.asset.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/search\/view.asset.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/blocks\/search\/view.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/view.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/blocks\/search\/view.min.asset.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/search\/view.min.asset.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/blocks\/search\/view.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/view.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/wp-includes\/blocks\/separator\/block.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -15415,6 +16820,54 @@
       "ma" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/blocks\/site-title\/editor.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/site-title\/style-rtl.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/site-title\/style-rtl-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/site-title\/style-rtl.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/site-title\/style-rtl.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/site-title\/style.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/site-title\/style-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/site-title\/style.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/site-title\/style.min-min.css",
       "oF" : 0,
       "pg" : 0
     },
@@ -16034,6 +17487,54 @@
       "oO" : 0,
       "oS" : 1
     },
+    "\/wp-includes\/blocks\/term-description\/style-rtl.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/term-description\/style-rtl-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/term-description\/style-rtl.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/term-description\/style-rtl.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/term-description\/style.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/term-description\/style-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/blocks\/term-description\/style.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/blocks\/term-description\/style.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/wp-includes\/blocks\/text-columns\/block.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -16434,6 +17935,14 @@
       "oAP" : "\/wp-includes\/certificates\/ca-bundle.crt",
       "oF" : 0
     },
+    "\/wp-includes\/class-avif-info.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-avif-info.php",
+      "oF" : 0
+    },
     "\/wp-includes\/class-feed.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -16602,6 +18111,22 @@
       "oAP" : "\/wp-includes\/class-wp-application-passwords.php",
       "oF" : 0
     },
+    "\/wp-includes\/class-wp-block-bindings-registry.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-wp-block-bindings-registry.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/class-wp-block-bindings-source.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-wp-block-bindings-source.php",
+      "oF" : 0
+    },
     "\/wp-includes\/class-wp-block-editor-context.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -16616,6 +18141,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/class-wp-block-list.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/class-wp-block-parser-block.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-wp-block-parser-block.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/class-wp-block-parser-frame.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-wp-block-parser-frame.php",
       "oF" : 0
     },
     "\/wp-includes\/class-wp-block-parser.php" : {
@@ -16688,6 +18229,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/class-wp-block.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/class-wp-classic-to-block-menu-converter.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-wp-classic-to-block-menu-converter.php",
       "oF" : 0
     },
     "\/wp-includes\/class-wp-comment-query.php" : {
@@ -16784,6 +18333,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/class-wp-dependency.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/class-wp-duotone.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-wp-duotone.php",
       "oF" : 0
     },
     "\/wp-includes\/class-wp-editor.php" : {
@@ -16994,6 +18551,14 @@
       "oAP" : "\/wp-includes\/class-wp-metadata-lazyloader.php",
       "oF" : 0
     },
+    "\/wp-includes\/class-wp-navigation-fallback.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-wp-navigation-fallback.php",
+      "oF" : 0
+    },
     "\/wp-includes\/class-wp-network-query.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -17040,6 +18605,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/class-wp-paused-extensions-storage.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/class-wp-plugin-dependencies.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-wp-plugin-dependencies.php",
       "oF" : 0
     },
     "\/wp-includes\/class-wp-post-type.php" : {
@@ -17128,6 +18701,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/class-wp-roles.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/class-wp-script-modules.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-wp-script-modules.php",
       "oF" : 0
     },
     "\/wp-includes\/class-wp-scripts.php" : {
@@ -17280,6 +18861,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/class-wp-theme.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/class-wp-token-map.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/class-wp-token-map.php",
       "oF" : 0
     },
     "\/wp-includes\/class-wp-user-meta-session-tokens.php" : {
@@ -17655,6 +19244,54 @@
       "ma" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/css\/dist\/block-directory\/style.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/block-editor\/content-rtl.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/block-editor\/content-rtl-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/block-editor\/content-rtl.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/block-editor\/content-rtl.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/block-editor\/content.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/block-editor\/content-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/block-editor\/content.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/block-editor\/content.min-min.css",
       "oF" : 0,
       "pg" : 0
     },
@@ -18138,6 +19775,54 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/wp-includes\/css\/dist\/commands\/style-rtl.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/commands\/style-rtl-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/commands\/style-rtl.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/commands\/style-rtl.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/commands\/style.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/commands\/style-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/commands\/style.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/commands\/style.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/wp-includes\/css\/dist\/components\/style-rtl.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -18615,6 +20300,102 @@
       "ma" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/css\/dist\/nux\/style.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/patterns\/style-rtl.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/patterns\/style-rtl-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/patterns\/style-rtl.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/patterns\/style-rtl.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/patterns\/style.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/patterns\/style-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/patterns\/style.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/patterns\/style.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/preferences\/style-rtl.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/preferences\/style-rtl-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/preferences\/style-rtl.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/preferences\/style-rtl.min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/preferences\/style.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/preferences\/style-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/wp-includes\/css\/dist\/preferences\/style.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/css\/dist\/preferences\/style.min-min.css",
       "oF" : 0,
       "pg" : 0
     },
@@ -19410,6 +21191,54 @@
       "oAP" : "\/wp-includes\/feed.php",
       "oF" : 0
     },
+    "\/wp-includes\/fonts.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/fonts.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/fonts\/class-wp-font-collection.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/fonts\/class-wp-font-collection.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/fonts\/class-wp-font-face-resolver.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/fonts\/class-wp-font-face-resolver.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/fonts\/class-wp-font-face.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/fonts\/class-wp-font-face.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/fonts\/class-wp-font-library.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/fonts\/class-wp-font-library.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/fonts\/class-wp-font-utils.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/fonts\/class-wp-font-utils.php",
+      "oF" : 0
+    },
     "\/wp-includes\/fonts\/dashicons.eot" : {
       "cB" : 0,
       "ft" : 8192,
@@ -19500,6 +21329,110 @@
       "oAP" : "\/wp-includes\/global-styles-and-settings.php",
       "oF" : 0
     },
+    "\/wp-includes\/html-api\/class-wp-html-active-formatting-elements.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/class-wp-html-active-formatting-elements.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/html-api\/class-wp-html-attribute-token.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/class-wp-html-attribute-token.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/html-api\/class-wp-html-decoder.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/class-wp-html-decoder.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/html-api\/class-wp-html-open-elements.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/class-wp-html-open-elements.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/html-api\/class-wp-html-processor-state.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/class-wp-html-processor-state.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/html-api\/class-wp-html-processor.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/class-wp-html-processor.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/html-api\/class-wp-html-span.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/class-wp-html-span.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/html-api\/class-wp-html-stack-event.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/class-wp-html-stack-event.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/html-api\/class-wp-html-tag-processor.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/class-wp-html-tag-processor.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/html-api\/class-wp-html-text-replacement.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/class-wp-html-text-replacement.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/html-api\/class-wp-html-token.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/class-wp-html-token.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/html-api\/class-wp-html-unsupported-exception.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/class-wp-html-unsupported-exception.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/html-api\/html5-named-character-references.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/html-api\/html5-named-character-references.php",
+      "oF" : 0
+    },
     "\/wp-includes\/http.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -19538,14 +21471,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/ID3\/getid3.php",
-      "oF" : 0
-    },
-    "\/wp-includes\/ID3\/license.commercial.txt" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/ID3\/license.commercial.txt",
       "oF" : 0
     },
     "\/wp-includes\/ID3\/license.txt" : {
@@ -19922,6 +21847,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/wp-includes\/images\/media\/archive.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-includes\/images\/media\/archive.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/wp-includes\/images\/media\/audio.png" : {
       "ft" : 32768,
       "iS" : 382,
@@ -19934,6 +21869,16 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/wp-includes\/images\/media\/audio.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-includes\/images\/media\/audio.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/wp-includes\/images\/media\/code.png" : {
       "ft" : 32768,
@@ -19948,6 +21893,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/wp-includes\/images\/media\/code.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-includes\/images\/media\/code.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/wp-includes\/images\/media\/default.png" : {
       "ft" : 32768,
       "iS" : 168,
@@ -19960,6 +21915,16 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/wp-includes\/images\/media\/default.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-includes\/images\/media\/default.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/wp-includes\/images\/media\/document.png" : {
       "ft" : 32768,
@@ -19974,6 +21939,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/wp-includes\/images\/media\/document.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-includes\/images\/media\/document.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/wp-includes\/images\/media\/interactive.png" : {
       "ft" : 32768,
       "iS" : 319,
@@ -19986,6 +21961,16 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/wp-includes\/images\/media\/interactive.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-includes\/images\/media\/interactive.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/wp-includes\/images\/media\/spreadsheet.png" : {
       "ft" : 32768,
@@ -20000,6 +21985,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/wp-includes\/images\/media\/spreadsheet.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-includes\/images\/media\/spreadsheet.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/wp-includes\/images\/media\/text.png" : {
       "ft" : 32768,
       "iS" : 188,
@@ -20013,6 +22008,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/wp-includes\/images\/media\/text.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-includes\/images\/media\/text.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/wp-includes\/images\/media\/video.png" : {
       "ft" : 32768,
       "iS" : 283,
@@ -20025,6 +22030,16 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/wp-includes\/images\/media\/video.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/wp-includes\/images\/media\/video.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/wp-includes\/images\/rss-2x.png" : {
       "ft" : 32768,
@@ -20422,45 +22437,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/wp-includes\/images\/wlw\/wp-comments.png" : {
-      "ft" : 32768,
-      "iS" : 1373,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/images\/wlw\/wp-comments.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-includes\/images\/wlw\/wp-icon.png" : {
-      "ft" : 32768,
-      "iS" : 664,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/images\/wlw\/wp-icon.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-includes\/images\/wlw\/wp-watermark.png" : {
-      "ft" : 32768,
-      "iS" : 2376,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/images\/wlw\/wp-watermark.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/wp-includes\/images\/wpicons-2x.png" : {
       "ft" : 32768,
       "iS" : 14931,
@@ -20526,6 +22502,30 @@
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "rq" : 75
+    },
+    "\/wp-includes\/interactivity-api\/class-wp-interactivity-api-directives-processor.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/interactivity-api\/class-wp-interactivity-api-directives-processor.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/interactivity-api\/class-wp-interactivity-api.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/interactivity-api\/class-wp-interactivity-api.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/interactivity-api\/interactivity-api.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/interactivity-api\/interactivity-api.php",
+      "oF" : 0
     },
     "\/wp-includes\/IXR\/class-IXR-base64.php" : {
       "cB" : 0,
@@ -21289,6 +23289,28 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/wp-includes\/js\/dist\/commands.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/commands.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/commands.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/commands.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/wp-includes\/js\/dist\/components.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -21329,6 +23351,28 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/wp-includes\/js\/compose.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/core-commands.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/core-commands.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/core-commands.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/core-commands.min.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
@@ -21773,6 +23817,66 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/wp-includes\/js\/dist\/interactivity-router.asset.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/dist\/interactivity-router.asset.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/js\/dist\/interactivity-router.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/interactivity-router.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/interactivity-router.min.asset.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/dist\/interactivity-router.min.asset.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/js\/dist\/interactivity-router.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/interactivity-router.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/interactivity.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/interactivity.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/interactivity.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/interactivity.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/wp-includes\/js\/dist\/is-shallow-equal.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -21927,6 +24031,28 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/wp-includes\/js\/dist\/patterns.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/patterns.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/patterns.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/patterns.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/wp-includes\/js\/dist\/plugins.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -22037,6 +24163,28 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/wp-includes\/js\/dist\/private-apis.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/private-apis.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/private-apis.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/private-apis.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/wp-includes\/js\/dist\/redux-routine.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -22099,6 +24247,28 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/wp-includes\/js\/rich-text.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/router.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/router.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/router.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/router.min.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
@@ -22191,6 +24361,28 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/wp-includes\/js\/dist\/undo-manager.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/undo-manager.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/undo-manager.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/undo-manager.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
     "\/wp-includes\/js\/dist\/url.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -22279,6 +24471,44 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/wp-includes\/js\/dist\/vendor\/react-dom.min.js.LICENSE.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/dist\/vendor\/react-dom.min.js.LICENSE.txt",
+      "oF" : 0
+    },
+    "\/wp-includes\/js\/dist\/vendor\/react-jsx-runtime.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/js\/react-jsx-runtime.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/vendor\/react-jsx-runtime.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/js\/react-jsx-runtime.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/vendor\/react-jsx-runtime.min.js.LICENSE.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/dist\/vendor\/react-jsx-runtime.min.js.LICENSE.txt",
+      "oF" : 0
+    },
     "\/wp-includes\/js\/dist\/vendor\/react.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -22300,6 +24530,14 @@
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/vendor\/react.min.js.LICENSE.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/dist\/vendor\/react.min.js.LICENSE.txt",
+      "oF" : 0
     },
     "\/wp-includes\/js\/dist\/vendor\/regenerator-runtime.js" : {
       "bF" : 0,
@@ -22407,6 +24645,50 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/wp-includes\/js\/js\/wp-polyfill-formdata.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-importmap.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/js\/wp-polyfill-importmap.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-importmap.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/js\/wp-polyfill-importmap.min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-inert.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/js\/wp-polyfill-inert.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/wp-includes\/js\/dist\/vendor\/wp-polyfill-inert.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/js\/js\/wp-polyfill-inert.min.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
@@ -25851,6 +28133,46 @@
       "oAP" : "\/wp-includes\/l10n.php",
       "oF" : 0
     },
+    "\/wp-includes\/l10n\/class-wp-translation-controller.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/l10n\/class-wp-translation-controller.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/l10n\/class-wp-translation-file-mo.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/l10n\/class-wp-translation-file-mo.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/l10n\/class-wp-translation-file-php.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/l10n\/class-wp-translation-file-php.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/l10n\/class-wp-translation-file.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/l10n\/class-wp-translation-file.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/l10n\/class-wp-translations.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/l10n\/class-wp-translations.php",
+      "oF" : 0
+    },
     "\/wp-includes\/link-template.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -26147,86 +28469,6 @@
       "oAP" : "\/wp-includes\/query.php",
       "oF" : 0
     },
-    "\/wp-includes\/random_compat\/byte_safe_strings.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/random_compat\/byte_safe_strings.php",
-      "oF" : 0
-    },
-    "\/wp-includes\/random_compat\/cast_to_int.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/random_compat\/cast_to_int.php",
-      "oF" : 0
-    },
-    "\/wp-includes\/random_compat\/error_polyfill.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/random_compat\/error_polyfill.php",
-      "oF" : 0
-    },
-    "\/wp-includes\/random_compat\/random_bytes_com_dotnet.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/random_compat\/random_bytes_com_dotnet.php",
-      "oF" : 0
-    },
-    "\/wp-includes\/random_compat\/random_bytes_dev_urandom.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/random_compat\/random_bytes_dev_urandom.php",
-      "oF" : 0
-    },
-    "\/wp-includes\/random_compat\/random_bytes_libsodium_legacy.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/random_compat\/random_bytes_libsodium_legacy.php",
-      "oF" : 0
-    },
-    "\/wp-includes\/random_compat\/random_bytes_libsodium.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/random_compat\/random_bytes_libsodium.php",
-      "oF" : 0
-    },
-    "\/wp-includes\/random_compat\/random_bytes_mcrypt.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/random_compat\/random_bytes_mcrypt.php",
-      "oF" : 0
-    },
-    "\/wp-includes\/random_compat\/random_int.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/random_compat\/random_int.php",
-      "oF" : 0
-    },
-    "\/wp-includes\/random_compat\/random.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/random_compat\/random.php",
-      "oF" : 0
-    },
     "\/wp-includes\/registration-functions.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -26243,460 +28485,524 @@
       "oAP" : "\/wp-includes\/registration.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Auth.php" : {
+    "\/wp-includes\/Requests\/library\/Requests.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Auth.php",
+      "oAP" : "\/wp-includes\/Requests\/library\/Requests.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Auth\/Basic.php" : {
+    "\/wp-includes\/Requests\/src\/Auth.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Auth\/Basic.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Auth.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Cookie.php" : {
+    "\/wp-includes\/Requests\/src\/Auth\/Basic.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Cookie.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Auth\/Basic.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Cookie\/Jar.php" : {
+    "\/wp-includes\/Requests\/src\/Autoload.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Cookie\/Jar.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Autoload.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception.php" : {
+    "\/wp-includes\/Requests\/src\/Capability.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Capability.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP.php" : {
+    "\/wp-includes\/Requests\/src\/Cookie.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Cookie.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/304.php" : {
+    "\/wp-includes\/Requests\/src\/Cookie\/Jar.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/304.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Cookie\/Jar.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/305.php" : {
+    "\/wp-includes\/Requests\/src\/Exception.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/305.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/306.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/ArgumentCount.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/306.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/ArgumentCount.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/400.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/400.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/401.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status304.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/401.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status304.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/402.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status305.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/402.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status305.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/403.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status306.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/403.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status306.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/404.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status400.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/404.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status400.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/405.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status401.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/405.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status401.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/406.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status402.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/406.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status402.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/407.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status403.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/407.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status403.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/408.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status404.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/408.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status404.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/409.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status405.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/409.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status405.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/410.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status406.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/410.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status406.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/411.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status407.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/411.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status407.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/412.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status408.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/412.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status408.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/413.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status409.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/413.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status409.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/414.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status410.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/414.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status410.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/415.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status411.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/415.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status411.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/416.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status412.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/416.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status412.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/417.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status413.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/417.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status413.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/418.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status414.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/418.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status414.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/428.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status415.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/428.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status415.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/429.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status416.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/429.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status416.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/431.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status417.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/431.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status417.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/500.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status418.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/500.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status418.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/501.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status428.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/501.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status428.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/502.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status429.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/502.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status429.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/503.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status431.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/503.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status431.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/504.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status500.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/504.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status500.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/505.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status501.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/505.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status501.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/511.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status502.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/511.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status502.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/HTTP\/Unknown.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status503.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/HTTP\/Unknown.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status503.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/Transport.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status504.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/Transport.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status504.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Exception\/Transport\/cURL.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status505.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Exception\/Transport\/cURL.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status505.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Hooker.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/Status511.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Hooker.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/Status511.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Hooks.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Http\/StatusUnknown.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Hooks.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Http\/StatusUnknown.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/IDNAEncoder.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/InvalidArgument.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/IDNAEncoder.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/InvalidArgument.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/IPv6.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Transport.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/IPv6.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Transport.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/IRI.php" : {
+    "\/wp-includes\/Requests\/src\/Exception\/Transport\/Curl.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/IRI.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Exception\/Transport\/Curl.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Proxy.php" : {
+    "\/wp-includes\/Requests\/src\/HookManager.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Proxy.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/HookManager.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Proxy\/HTTP.php" : {
+    "\/wp-includes\/Requests\/src\/Hooks.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Proxy\/HTTP.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Hooks.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Response.php" : {
+    "\/wp-includes\/Requests\/src\/IdnaEncoder.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Response.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/IdnaEncoder.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Response\/Headers.php" : {
+    "\/wp-includes\/Requests\/src\/Ipv6.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Response\/Headers.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Ipv6.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Session.php" : {
+    "\/wp-includes\/Requests\/src\/Iri.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Session.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Iri.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/SSL.php" : {
+    "\/wp-includes\/Requests\/src\/Port.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/SSL.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Port.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Transport.php" : {
+    "\/wp-includes\/Requests\/src\/Proxy.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Transport.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Proxy.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Transport\/cURL.php" : {
+    "\/wp-includes\/Requests\/src\/Proxy\/Http.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Transport\/cURL.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Proxy\/Http.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Transport\/fsockopen.php" : {
+    "\/wp-includes\/Requests\/src\/Requests.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Transport\/fsockopen.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Requests.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php" : {
+    "\/wp-includes\/Requests\/src\/Response.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Response.php",
       "oF" : 0
     },
-    "\/wp-includes\/Requests\/Utility\/FilteredIterator.php" : {
+    "\/wp-includes\/Requests\/src\/Response\/Headers.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-includes\/Requests\/Utility\/FilteredIterator.php",
+      "oAP" : "\/wp-includes\/Requests\/src\/Response\/Headers.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/Requests\/src\/Session.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/Requests\/src\/Session.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/Requests\/src\/Ssl.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/Requests\/src\/Ssl.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/Requests\/src\/Transport.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/Requests\/src\/Transport.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/Requests\/src\/Transport\/Curl.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/Requests\/src\/Transport\/Curl.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/Requests\/src\/Transport\/Fsockopen.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/Requests\/src\/Transport\/Fsockopen.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/Requests\/src\/Utility\/CaseInsensitiveDictionary.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/Requests\/src\/Utility\/CaseInsensitiveDictionary.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/Requests\/src\/Utility\/FilteredIterator.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/Requests\/src\/Utility\/FilteredIterator.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/Requests\/src\/Utility\/InputValidator.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/Requests\/src\/Utility\/InputValidator.php",
       "oF" : 0
     },
     "\/wp-includes\/rest-api.php" : {
@@ -26827,12 +29133,44 @@
       "oAP" : "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-edit-site-export-controller.php",
       "oF" : 0
     },
+    "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-font-collections-controller.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-font-collections-controller.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-font-faces-controller.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-font-faces-controller.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-font-families-controller.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-font-families-controller.php",
+      "oF" : 0
+    },
     "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-global-styles-controller.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-global-styles-controller.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-global-styles-revisions-controller.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-global-styles-revisions-controller.php",
       "oF" : 0
     },
     "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-menu-items-controller.php" : {
@@ -26857,6 +29195,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-menus-controller.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-navigation-fallback-controller.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-navigation-fallback-controller.php",
       "oF" : 0
     },
     "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-pattern-directory-controller.php" : {
@@ -26945,6 +29291,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-taxonomies-controller.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-template-autosaves-controller.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-template-autosaves-controller.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-template-revisions-controller.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-template-revisions-controller.php",
       "oF" : 0
     },
     "\/wp-includes\/rest-api\/endpoints\/class-wp-rest-templates-controller.php" : {
@@ -27121,6 +29483,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/script-loader.php",
+      "oF" : 0
+    },
+    "\/wp-includes\/script-modules.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/script-modules.php",
       "oF" : 0
     },
     "\/wp-includes\/session.php" : {
@@ -28479,6 +30849,14 @@
       "oO" : 0,
       "oS" : 1
     },
+    "\/wp-includes\/theme-previews.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-includes\/theme-previews.php",
+      "oF" : 0
+    },
     "\/wp-includes\/theme-templates.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -28701,14 +31079,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-includes\/widgets\/class-wp-widget-text.php",
-      "oF" : 0
-    },
-    "\/wp-includes\/wlwmanifest.xml" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-includes\/wlwmanifest.xml",
       "oF" : 0
     },
     "\/wp-includes\/wp-db.php" : {
