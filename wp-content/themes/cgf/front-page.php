@@ -71,30 +71,30 @@ get_header()?>
                 <ul class="pl-0">
                     <li class="d-flex justify-content-between mb-3 py-2">
                         <div class="list-col">
-                            <div class="event__date col-md text-center text-uppercase px-0"><span>Mar</span><br/><span>22</span></div>
+                            <div class="event__date col-md text-center text-uppercase px-0"><span>Apr</span><br/><span>24</span></div>
                         </div> 
                         <div class="list-col col-md d-md-flex justify-content-between">
                             <div class="event__info col-md mb-4 mb-md-0">
-                                <span>A Very Black Variety Show</span><span>Brooklyn, NY at Littlefield NYC</span>
+                                <span>Madison Sounds - 7:30PM</span><span>Tatiana in "Eugene Onegin" by Pyotr Tchaikovsky</span>
                             </div> 
-                            <div class="event__link justify-md-self-end ml-2 ml-md-0">
+                            <!-- <div class="event__link justify-md-self-end ml-2 ml-md-0">
                                 <a class="btn disabled" href="https://nychoral.org/event/angel-of-many-signs/" target="_blank" disabled><span>Tickets available soon</span>
-                                <!-- <span class="arrow"></span> -->
+                                <span class="arrow"></span>
                                 </a>
-                            </div>
+                            </div> -->
                         </div>
                     </li>
                     <li class="d-flex justify-content-between mb-3 py-2">
                         <div class="list-col">
-                            <div class="event__date col-md text-center text-uppercase pl-0"><span>Apr</span><br/><span>10</span></div>
+                            <div class="event__date col-md text-center text-uppercase pl-0"><span>May</span><br/><span>8</span></div>
                         </div> 
                         <div class="list-col col-md d-md-flex justify-content-between">
                             <div class="event__info col-md mb-4 mb-md-0">
-                                <span>The Reef, Berkshire Opera Festival</span><span>New York, NY</span>
+                                <span>Madison Sounds - 7:30PM</span><span>Emerging Artist Gala Performance</span>
                             </div> 
-                            <div class="event__link justify-md-self-end ml-2 ml-md-0">
+                            <!-- <div class="event__link justify-md-self-end ml-2 ml-md-0">
                                 <a class="btn" href="https://www.kaufmanmusiccenter.org/mch/event/anthony-davis-joan-ross-sorkins-the-reef/" target="_blank"><span>Get tickets</span> <span class="arrow"></span></a>
-                            </div>
+                            </div> -->
                         </div>
                     </li>
                     
