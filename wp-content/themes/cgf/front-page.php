@@ -15,7 +15,7 @@ get_header()?>
                 <div class="logo m-auto m-md-0"></div>
             </div>
             <div class="page-header__col-right d-none d-md-block">
-                <a href="<?php echo get_bloginfo('template_url');?>/resume.pdf" target="_blank">View my resumé</a>
+                <a href="<?php echo get_bloginfo('template_url');?>/Chantal_Freeman_Soprano_Resume-08-10-2025.pdf" target="_blank">View my resumé</a>
             </div>
         </div>
     </div>
