@@ -66,6 +66,7 @@ wp-content/mu-plugins/wpe-wp-sign-on-plugin*
 /wp-includes
 /wp-content/index.php
 /wp-content/themes/twentytwentythree
+/wp-content/themes/twentytwentyfive
 /wp-content/themes/index.php
 /wp-content/plugins/index.php
 /wp-content/plugins/akismet*
