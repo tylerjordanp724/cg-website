@@ -327,6 +327,12 @@ a.btn, .btn {
             margin-bottom: 5px;
         }
 
+        ul li .list-col .event__info span {
+            display: block;
+            min-width: 280px;
+            max-width: 280px;
+        }
+
         ul li a {
             text-align: center;
         }

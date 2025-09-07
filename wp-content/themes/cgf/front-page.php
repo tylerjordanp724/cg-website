@@ -67,37 +67,53 @@ get_header()?>
             <div class="page-section__title d-md-flex align-items-center">
                 <h2>Upcoming Events</h2>
             </div>
-            <div class="event-list pt-4">
+            <div class="event-list pt-4 px-0">
                 <ul class="pl-0">
                     <li class="d-flex justify-content-between mb-3 py-2">
                         <div class="list-col">
-                            <div class="event__date col-md text-center text-uppercase px-0"><span>Apr</span><br/><span>24</span></div>
+                            <div class="event__date col-md text-center text-uppercase px-0"><span>Sep</span><br/><span>28</span></div>
                         </div> 
                         <div class="list-col col-md d-md-flex justify-content-between">
                             <div class="event__info col-md mb-4 mb-md-0">
-                                <span>Madison Sounds - 7:30PM</span><span>Tatiana in "Eugene Onegin" by Pyotr Tchaikovsky</span>
+                                <span>Dans Ma Voix Recital Series - 6 PM</span><span>Salem Baptist Church of Abington, Easton Campus</span>
                             </div> 
-                            <!-- <div class="event__link justify-md-self-end ml-2 ml-md-0">
-                                <a class="btn disabled" href="https://nychoral.org/event/angel-of-many-signs/" target="_blank" disabled><span>Tickets available soon</span>
-                                <span class="arrow"></span>
+                            <div class="event__link justify-md-self-end ml-2 ml-md-0">
+                                <a class="btn disabled" href="#" target="_blank" disabled><span>Coming soon!</span>
+                                <!-- <span class="arrow"></span> -->
                                 </a>
-                            </div> -->
+                            </div>
                         </div>
                     </li>
                     <li class="d-flex justify-content-between mb-3 py-2">
                         <div class="list-col">
-                            <div class="event__date col-md text-center text-uppercase pl-0"><span>May</span><br/><span>8</span></div>
+                            <div class="event__date col-md text-center text-uppercase px-0"><span>Oct</span><br/><span>TBD</span></div>
                         </div> 
                         <div class="list-col col-md d-md-flex justify-content-between">
                             <div class="event__info col-md mb-4 mb-md-0">
-                                <span>Madison Sounds - 7:30PM</span><span>Emerging Artist Gala Performance</span>
+                                <span>Dans Ma Voix Recital Series - TBD</span><span>Newtown Presbyterian Church</span>
                             </div> 
-                            <!-- <div class="event__link justify-md-self-end ml-2 ml-md-0">
-                                <a class="btn" href="https://www.kaufmanmusiccenter.org/mch/event/anthony-davis-joan-ross-sorkins-the-reef/" target="_blank"><span>Get tickets</span> <span class="arrow"></span></a>
-                            </div> -->
+                            <div class="event__link justify-md-self-end ml-2 ml-md-0">
+                                <a class="btn disabled" href="#" target="_blank" disabled><span>Coming soon!</span>
+                                <!-- <span class="arrow"></span> -->
+                                </a>
+                            </div>
                         </div>
                     </li>
-                    
+                    <li class="d-flex justify-content-between mb-3 py-2">
+                        <div class="list-col">
+                            <div class="event__date col-md text-center text-uppercase px-0"><span>Oct</span><br/><span>30</span></div>
+                        </div> 
+                        <div class="list-col col-md d-md-flex justify-content-between">
+                            <div class="event__info col-md mb-4 mb-md-0">
+                                <span>Soprano Soloist "The Ordering of Moses" by Nathaniel Dett with The Syracuse Orchestra - 7 PM</span><span>Cathedral of the Immaculate Conception, Syracuse, NY</span>
+                            </div> 
+                            <div class="event__link justify-md-self-end ml-2 ml-md-0">
+                                <a class="btn" href="https://syracuseorchestra.org/event/the-ordering-of-moses/" target="_blank"><span>Get tickets</span>
+                                <span class="arrow"></span>
+                                </a>
+                            </div>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </div>
