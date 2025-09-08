@@ -71,15 +71,15 @@ get_header()?>
                 <ul class="pl-0">
                     <li class="d-flex justify-content-between mb-3 py-2">
                         <div class="list-col">
-                            <div class="event__date col-md text-center text-uppercase px-0"><span>Sep</span><br/><span>28</span></div>
+                            <div class="event__date col-md text-center text-uppercase px-0"><span>Sep</span><br/><span>24</span></div>
                         </div> 
                         <div class="list-col col-md d-md-flex justify-content-between">
                             <div class="event__info col-md mb-4 mb-md-0">
-                                <span>Dans Ma Voix Recital Series - 6 PM</span><span>Salem Baptist Church of Abington, Easton Campus</span>
+                                <span>Mannes Sounds: Solidarity in Dreams: Art of Aspiration, Hope, amd Wonder - 7:30 PM</span><span>John L. Tishman Auditorium, New York, NY</span>
                             </div> 
                             <div class="event__link justify-md-self-end ml-2 ml-md-0">
-                                <a class="btn disabled" href="#" target="_blank" disabled><span>Coming soon!</span>
-                                <!-- <span class="arrow"></span> -->
+                                <a class="btn" href="https://event.newschool.edu/mannessoundssolidarityindreams" target="_blank"><span>Get tickets</span>
+                                <span class="arrow"></span>
                                 </a>
                             </div>
                         </div>
