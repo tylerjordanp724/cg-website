@@ -86,7 +86,7 @@ get_header()?>
                     </li>
                     <li class="d-flex justify-content-between mb-3 py-2">
                         <div class="list-col">
-                            <div class="event__date col-md text-center text-uppercase px-0"><span>Oct</span><br/><span>TBD</span></div>
+                            <div class="event__date col-md text-center text-uppercase px-0"><span>Oct</span><br/><span></span></div>
                         </div> 
                         <div class="list-col col-md d-md-flex justify-content-between">
                             <div class="event__info col-md mb-4 mb-md-0">
