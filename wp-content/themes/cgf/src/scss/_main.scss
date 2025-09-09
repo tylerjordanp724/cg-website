@@ -318,7 +318,7 @@ a.btn, .btn {
         }
 
         ul li .list-col .event__date {
-            width: 100px;
+            max-width: 100px;
             text-align: center;
             font-family: $serifFontFamily;
             font-weight: 700;
@@ -332,8 +332,7 @@ a.btn, .btn {
         
         ul li .list-col .event__info span {
             display: block;
-            min-width: 280px;
-            max-width: 280px;
+            max-width: 380px;
             line-height: 1.2;
         }
 
