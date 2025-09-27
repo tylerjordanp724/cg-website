@@ -71,14 +71,14 @@ get_header()?>
                 <ul class="pl-0">
                     <li class="d-flex justify-content-between mb-3 py-2">
                         <div class="list-col">
-                            <div class="event__date col-md text-center text-uppercase px-0"><span>Sep</span><br/><span>24</span></div>
+                            <div class="event__date col-md text-center text-uppercase px-0"><span>Oct</span><br/><span>12</span></div>
                         </div> 
                         <div class="list-col col-md d-md-flex justify-content-between">
                             <div class="event__info col-md mb-4 mb-md-0">
-                                <span>Mannes Sounds: Solidarity in Dreams: Art of Aspiration, Hope, amd Wonder - 7:30 PM</span><span>John L. Tishman Auditorium, New York, NY</span>
+                                <span>Dans Ma Voix Recital Series: “From Aria to Art Song: My Musical Journey”</span><span>Salem Baptist Church of Abington (Easton Campus)</span>
                             </div> 
                             <div class="event__link justify-md-self-end ml-2 ml-md-0">
-                                <a class="btn" href="https://event.newschool.edu/mannessoundssolidarityindreams" target="_blank"><span>Get tickets</span>
+                                <a class="btn" href="https://www.eventbrite.com/e/dans-ma-voix-recital-series-from-aria-to-art-song-my-musical-journey-tickets-1735369038509?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl" target="_blank"><span>Get tickets</span>
                                 <span class="arrow"></span>
                                 </a>
                             </div>
@@ -86,15 +86,15 @@ get_header()?>
                     </li>
                     <li class="d-flex justify-content-between mb-3 py-2">
                         <div class="list-col">
-                            <div class="event__date col-md text-center text-uppercase px-0"><span>Oct</span><br/><span>TBD</span></div>
+                            <div class="event__date col-md text-center text-uppercase px-0"><span>Oct</span><br/><span>19</span></div>
                         </div> 
                         <div class="list-col col-md d-md-flex justify-content-between">
                             <div class="event__info col-md mb-4 mb-md-0">
-                                <span>Dans Ma Voix Recital Series - TBD</span><span>Newtown Presbyterian Church</span>
+                                <span>Dans Ma Voix Recital Series: Black Composers in Recital</span><span>Newtown Square Presbyterian Church</span>
                             </div> 
                             <div class="event__link justify-md-self-end ml-2 ml-md-0">
-                                <a class="btn disabled" href="#" target="_blank" disabled><span>Coming soon!</span>
-                                <!-- <span class="arrow"></span> -->
+                                <a class="btn" href="https://www.eventbrite.com/e/dans-ma-voix-recital-series-black-composers-in-recital-tickets-1735340783999?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl" target="_blank"><span>Get tickets</span>
+                                <span class="arrow"></span>
                                 </a>
                             </div>
                         </div>
