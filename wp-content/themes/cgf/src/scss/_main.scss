@@ -91,9 +91,19 @@ p {
     @include font-size(18);
 }
 
+figcaption {
+    @include font-size(14);
+}
+
 
 figure {
     margin-bottom: 0;
+
+    &:has(figcaption) {
+        picture {
+            margin-bottom: 8px;
+        }
+    }
 }
 
 .img--cover img {
